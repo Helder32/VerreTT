@@ -1,0 +1,16 @@
+AllinGrid 1.0.4, 2018-07-08
+------------------------
+- add header top box with menu, email, phone and social icons
+- fix issue with static front page contect
+
+AllinGrid 1.0.3, 2018-05-07
+------------------------
+- replace images into screenshot.png because of license issue
+
+AllinGrid 1.0.1, 2018-05-01
+------------------------
+- use core-bundled script for masonry
+
+AllinGrid 1.0.0, 2018-04-20
+------------------------
+- Initial release
