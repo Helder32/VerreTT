@@ -1,4 +1,11 @@
 <?php
+
+    //-- activation de la mise à jour automatique de tous les plugins
+    add_filter( 'auto_update_plugin', '__return_true' );
+
+    //-- activation de la mise à jour automatique de tous les thèmes
+    add_filter( 'auto_update_theme', '__return_true' );
+    
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
